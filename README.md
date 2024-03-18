@@ -1,3 +1,7 @@
+
+https://github.com/nikkr008/Bluetooth_Thermal_Printer/assets/87872978/31735608-81d0-400d-96ae-982626508e51
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
